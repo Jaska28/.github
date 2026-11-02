@@ -1,8 +1,8 @@
 ---
 name: Epic
 about: Major product need that groups together multiple User Stories
-title: "E00: "
-labels: type:epic
+title: ""
+labels: epic
 ---
 
 ## Goal

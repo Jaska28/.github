@@ -1,8 +1,8 @@
 ---
 name: Task
 about: Technical work performed by the Developers
-title: "T00: "
-labels: type:task
+title: ""
+labels: task
 ---
 
 ## Description

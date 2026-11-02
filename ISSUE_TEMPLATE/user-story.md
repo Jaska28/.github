@@ -1,8 +1,8 @@
 ---
 name: User Story
 about: Feature described from the user's perspective
-title: "US00: "
-labels: type:story
+title: ""
+labels: story
 ---
 
 ## User Story
